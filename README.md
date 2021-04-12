@@ -49,3 +49,4 @@ Each service is seperate with different teams
     - w - write
     - x - execute
 - `ll` check current permissions
+- `sudo apt-get install nginx` install web server called NGINX
