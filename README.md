@@ -18,3 +18,10 @@ Each service is seperate with different teams
 - Take part across the whole service lifecycle.
 - Superior quality software can be developed quickly and with more reliability.
 - Shortens time without compromising quality.
+
+## Vagrant commands
+- `vagrant init` to initialise virtual machine
+- `vagrant up` to start virtual machine
+- `vagrant destroy` to destroy
+- `vagrant status` to check the status
+- `vagrant halt` to end virtual machine
