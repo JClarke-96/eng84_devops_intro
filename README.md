@@ -45,7 +45,7 @@ Each service is seperate with different teams
 -  `rm file_name` delete a file
 -  `mv file_name folder_name` move a file to a different folder
 -  `chmod +rwx file_name` add permisisons to a file
-  - r - read
-  - w - write
-  - x - execute
+    - r - read
+    - w - write
+    - x - execute
 - `ll` check current permissions
